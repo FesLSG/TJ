@@ -1,0 +1,17 @@
+# OS-specific files
+.DS_Store
+.env
+
+# npm package manager files
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Firebase-specific files
+.firebase/
+*.env.local
+
+# IDE-specific files
+.vscode/
+.idea/
+
